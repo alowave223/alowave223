@@ -1,7 +1,7 @@
 ## :sparkles: some things about myself. :sparkles:
 Hi! You can call me **alowave** or **alo**. I am currently interested in Networking, Systems Programming and Software Ingeneering. My main language is Python, I'm still bad but every day I learn more and more things!
 
-i am currently 18 years old student from Ukraine :earth_americas:. i'm a owner of private server to game called [osu!](https://osu.ppy.sh/) @osu-Sakuru. 
+i am currently 18 years old student from Ukraine :earth_americas:. i'm a owner of private server to game called [osu!](https://osu.ppy.sh/) [@osu-Sakuru](https://github.com/osu-Sakuru). 
 
 ## :electric_plug: my environment. :computer:
 i use Visual Studio Code <img alt="VSCode" width="17px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/> as my usual ide, however i like to use PyCharm <img alt="PyCharm" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/> for big projects. 
@@ -20,5 +20,5 @@ this section is my coding activity & statistics.
 
 ![lenforiee's gitHub stats](https://github-readme-stats.vercel.app/api?username=alowave223&count_private=true&show_icons=true&title_color=954CFF&bg_color=FFFFF2&icon_color=954CFF&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alowave223&title_color=954CFF&bg_color=FFFFF2&icon_color=954CFF)
-<img alt="Chart" width="330px" src="https://wakatime.com/share/@85566216-2f15-4104-9db5-2000a153ac62/de9fef22-2e7b-47da-8452-3b455ee7c996.svg"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alowave223&title_color=954CFF&bg_color=FFFFF2&icon_color=954CFF) \
+<img alt="Chart" width="480px" src="https://wakatime.com/share/@85566216-2f15-4104-9db5-2000a153ac62/de9fef22-2e7b-47da-8452-3b455ee7c996.svg"/>
