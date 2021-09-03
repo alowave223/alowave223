@@ -19,4 +19,4 @@ i'm available on many social medias, just send me friend request on discord or s
 this section is my coding activity & statistics.
 
 ![alowave223's gitHub stats](https://github-readme-stats.vercel.app/api?username=alowave223&count_private=true&show_icons=true&title_color=954CFF&bg_color=FFFFF2&icon_color=954CFF&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alowave223&title_color=954CFF&bg_color=FFFFF2&icon_color=954CFF) \
-<img alt="Chart" width="480px" src="https://wakatime.com/share/@85566216-2f15-4104-9db5-2000a153ac62/de9fef22-2e7b-47da-8452-3b455ee7c996.svg"/>
+<img alt="Chart" width="800px" src="https://wakatime.com/share/@85566216-2f15-4104-9db5-2000a153ac62/de9fef22-2e7b-47da-8452-3b455ee7c996.svg"/>
