@@ -23,6 +23,7 @@ this section is my coding activity & statistics.
  </p>
 
 <p align="right">
+  <img alt="Chart" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alowave223&title_color=954CFF&bg_color=FFFFF2&icon_color=954CF"/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alowave223&title_color=954CFF&bg_color=FFFFF2&icon_color=954CFF)
 </p>
 
