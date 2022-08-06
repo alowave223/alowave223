@@ -1,7 +1,7 @@
 ## :sparkles: some things about myself. :sparkles:
 Hi! You can call me **alowave** or **alo**. I am currently interested in Networking, Systems Programming and Software Ingeneering. My main language is Python, I'm still bad but every day I learn more and more things!
 
-i am currently 18 years old student from Ukraine :earth_americas:. i'm a owner of private server to game called [osu!](https://osu.ppy.sh/) [@osu-Sakuru](https://github.com/osu-Sakuru). 
+i am currently 19 years old student from Ukraine :earth_americas:. i'm a owner of private server to game called [osu!](https://osu.ppy.sh/) [@osu-Sakuru](https://github.com/osu-Sakuru). 
 
 ## :electric_plug: my environment. :computer:
 i use Visual Studio Code <img alt="VSCode" width="17px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/> as my usual ide, however i like to use PyCharm <img alt="PyCharm" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/> for big projects. 
